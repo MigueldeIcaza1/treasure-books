@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/treasure-books/static/css/main.8e219e7d.chunk.css",
-    "main.js": "/treasure-books/static/js/main.304a0916.chunk.js",
-    "main.js.map": "/treasure-books/static/js/main.304a0916.chunk.js.map",
+    "main.js": "/treasure-books/static/js/main.48631966.chunk.js",
+    "main.js.map": "/treasure-books/static/js/main.48631966.chunk.js.map",
     "runtime-main.js": "/treasure-books/static/js/runtime-main.346351f2.js",
     "runtime-main.js.map": "/treasure-books/static/js/runtime-main.346351f2.js.map",
-    "static/js/2.18043922.chunk.js": "/treasure-books/static/js/2.18043922.chunk.js",
-    "static/js/2.18043922.chunk.js.map": "/treasure-books/static/js/2.18043922.chunk.js.map",
+    "static/js/2.5595cadb.chunk.js": "/treasure-books/static/js/2.5595cadb.chunk.js",
+    "static/js/2.5595cadb.chunk.js.map": "/treasure-books/static/js/2.5595cadb.chunk.js.map",
     "static/js/3.de6a9887.chunk.js": "/treasure-books/static/js/3.de6a9887.chunk.js",
     "static/js/3.de6a9887.chunk.js.map": "/treasure-books/static/js/3.de6a9887.chunk.js.map",
     "index.html": "/treasure-books/index.html",
     "static/css/main.8e219e7d.chunk.css.map": "/treasure-books/static/css/main.8e219e7d.chunk.css.map",
-    "static/js/2.18043922.chunk.js.LICENSE.txt": "/treasure-books/static/js/2.18043922.chunk.js.LICENSE.txt",
+    "static/js/2.5595cadb.chunk.js.LICENSE.txt": "/treasure-books/static/js/2.5595cadb.chunk.js.LICENSE.txt",
     "static/media/coverpage.16c7846b.jpg": "/treasure-books/static/media/coverpage.16c7846b.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.346351f2.js",
-    "static/js/2.18043922.chunk.js",
+    "static/js/2.5595cadb.chunk.js",
     "static/css/main.8e219e7d.chunk.css",
-    "static/js/main.304a0916.chunk.js"
+    "static/js/main.48631966.chunk.js"
   ]
 }
