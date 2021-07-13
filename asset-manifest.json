@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/treasure-books/static/css/main.0fdf2c4b.chunk.css",
-    "main.js": "/treasure-books/static/js/main.daeafa3c.chunk.js",
-    "main.js.map": "/treasure-books/static/js/main.daeafa3c.chunk.js.map",
-    "runtime-main.js": "/treasure-books/static/js/runtime-main.2cd9af72.js",
-    "runtime-main.js.map": "/treasure-books/static/js/runtime-main.2cd9af72.js.map",
+    "main.css": "/treasure-books/static/css/main.88cb7cdf.chunk.css",
+    "main.js": "/treasure-books/static/js/main.3d920be5.chunk.js",
+    "main.js.map": "/treasure-books/static/js/main.3d920be5.chunk.js.map",
+    "runtime-main.js": "/treasure-books/static/js/runtime-main.d22847b0.js",
+    "runtime-main.js.map": "/treasure-books/static/js/runtime-main.d22847b0.js.map",
     "static/css/2.fb17aa6d.chunk.css": "/treasure-books/static/css/2.fb17aa6d.chunk.css",
-    "static/js/2.712b9e20.chunk.js": "/treasure-books/static/js/2.712b9e20.chunk.js",
-    "static/js/2.712b9e20.chunk.js.map": "/treasure-books/static/js/2.712b9e20.chunk.js.map",
-    "static/js/3.7aa9f168.chunk.js": "/treasure-books/static/js/3.7aa9f168.chunk.js",
-    "static/js/3.7aa9f168.chunk.js.map": "/treasure-books/static/js/3.7aa9f168.chunk.js.map",
+    "static/js/2.0c5338c8.chunk.js": "/treasure-books/static/js/2.0c5338c8.chunk.js",
+    "static/js/2.0c5338c8.chunk.js.map": "/treasure-books/static/js/2.0c5338c8.chunk.js.map",
+    "static/js/3.863c581b.chunk.js": "/treasure-books/static/js/3.863c581b.chunk.js",
+    "static/js/3.863c581b.chunk.js.map": "/treasure-books/static/js/3.863c581b.chunk.js.map",
     "index.html": "/treasure-books/index.html",
     "static/css/2.fb17aa6d.chunk.css.map": "/treasure-books/static/css/2.fb17aa6d.chunk.css.map",
-    "static/css/main.0fdf2c4b.chunk.css.map": "/treasure-books/static/css/main.0fdf2c4b.chunk.css.map",
-    "static/js/2.712b9e20.chunk.js.LICENSE.txt": "/treasure-books/static/js/2.712b9e20.chunk.js.LICENSE.txt",
+    "static/css/main.88cb7cdf.chunk.css.map": "/treasure-books/static/css/main.88cb7cdf.chunk.css.map",
+    "static/js/2.0c5338c8.chunk.js.LICENSE.txt": "/treasure-books/static/js/2.0c5338c8.chunk.js.LICENSE.txt",
     "static/media/7Habits.78fc2e3f.jpg": "/treasure-books/static/media/7Habits.78fc2e3f.jpg",
     "static/media/alchamist.0831d1dd.jpg": "/treasure-books/static/media/alchamist.0831d1dd.jpg",
     "static/media/artOfThinking.e1be0cc1.jpg": "/treasure-books/static/media/artOfThinking.e1be0cc1.jpg",
@@ -21,10 +21,10 @@
     "static/media/subcon.446c37a5.jpg": "/treasure-books/static/media/subcon.446c37a5.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2cd9af72.js",
+    "static/js/runtime-main.d22847b0.js",
     "static/css/2.fb17aa6d.chunk.css",
-    "static/js/2.712b9e20.chunk.js",
-    "static/css/main.0fdf2c4b.chunk.css",
-    "static/js/main.daeafa3c.chunk.js"
+    "static/js/2.0c5338c8.chunk.js",
+    "static/css/main.88cb7cdf.chunk.css",
+    "static/js/main.3d920be5.chunk.js"
   ]
 }
